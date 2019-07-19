@@ -6,7 +6,7 @@ var shoutouts = [
   "I love the sister site you made for me! You are also super talented at Koding.",
   "that you are so willing to help those around you",
   "You're very sweet! Also you are so creative!",
-  "how helpful you are before and after you finish your own project. You're always helping others to make sure nobody gets left behind :)"
+  "how helpful you are before and after you finish your own project. You're always helping others to make sure nobody gets left behind :)",
   "that you are always really willing to collaborate and help people.",
   "How smart you are and how easy it is to work with you!",
   "Your ability to work on each project with so much dedication.",
